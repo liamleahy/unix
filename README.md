@@ -1,2 +1,2 @@
-# unix
-UNIX final assignment for CS9E at UC, Berkeley. 
+# UNIX
+Final assignment for CS9E at UC, Berkeley. 
